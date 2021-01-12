@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import './App.css'; 
+import './App.css';   
 import WebcamCapture from './Components/WebcamCapture';
 import {
   BrowserRouter as Router,
