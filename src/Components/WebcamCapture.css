@@ -1,0 +1,19 @@
+.webcamCapture{
+    position: relative;
+}
+.webcamCapture__button{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    cursor: pointer;
+    color: white;
+}
+.webcamCapture__chat{
+    position: absolute;
+    top: 5%;
+    left: 8%;
+    transform: translate(-50%,-50%);
+    cursor: pointer !important;
+    color: #059ee0;
+}
